@@ -11,3 +11,4 @@ The datasets used come from Nakano et. al.
 > F.  K.  Nakano,  W.  J.  Pinto,  G.  L.  Pappa,  and  R.  Cerri,  “Top-down strategies  for  hierarchical  classification  of transposable  elements  with neural networks,” in International Joint Conference on Neural Networks (IJCNN), 2017, pp. 2539–2546.
 
 ### For more information or suggestions, please contact the authors.
+### [Bioinformatics and Machine Learning Group - BioMaL](http://www.biomal.ufscar.br/)
